@@ -4,3 +4,4 @@
 * [Set Up For Remote Configuration](./Set-Up-For-Remote-Configuration.md)
 * [Install GUI](./Install-GUI.md)
 * [Install Chrome](./Install-Chrome.md)
+* [Robot WPIlib Setup](./Robot-WPIlib-Setup.md)

@@ -31,9 +31,15 @@ cd WPILib_Linux-2023.1.1/
 ./WPILibInstaller # run from the laptop
 ```
 
-
 WPILib Install Options:
 
 * Install "Everything"
 * Install for this User
 * Download for this computer only
+
+Clean up installation files
+
+```
+rm ~/WPILib_Linux-2023.1.1.tar.gz
+rm -rf ~/WPILib_Linux-2023.1.1/
+```

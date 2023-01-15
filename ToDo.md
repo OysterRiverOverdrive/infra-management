@@ -6,4 +6,4 @@
 * Oyster River Decals
 * Storage request from orson
 * Create doc for common git cli commands
-
+* Script to check for uncommitted/pushed changes.

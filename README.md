@@ -5,3 +5,4 @@
 * [Install GUI](./Install-GUI.md)
 * [Install Chrome](./Install-Chrome.md)
 * [Robot WPIlib Setup](./Robot-WPIlib-Setup.md)
+* [Install Arduino IDE](./Install-Arduino-IDE.md)

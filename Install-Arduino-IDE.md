@@ -20,3 +20,9 @@ sudo pacman -S arduino arduino-cli
 arduino-cli -v core install arduino:avr
 # Okay to ignore errors like "A new release of Arduino CLI is available:" for now.
 ```
+
+Install common libraries
+
+```
+arduino-cli lib install FastLed
+```
